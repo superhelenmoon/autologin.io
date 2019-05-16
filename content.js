@@ -16,3 +16,5 @@ chrome.runtime.onMessage.addListener(function(request, sender, sendResponse) {
 		// chrome.runtime.sendMessage({"message": "open_new_tab", "url": firstHref});
 	}
 });
+
+// Add some comments from gitpod
